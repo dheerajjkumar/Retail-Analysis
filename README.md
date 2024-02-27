@@ -2,7 +2,7 @@
 
 ## Overview
 This document provides an analysis of promotional activities conducted by AtliQ 
-Mart during the Diwali 2023 and Sankranti 2024 periods. The analysis aims to offer
+Mart during the Diwali and Sankranti periods. The analysis aims to offer
 insights into the effectiveness of various promotions, helping the sales director
 make informed decisions for future promotional strategies. The analysis is divided
 into sections focusing on different aspects such as store performance, 
